@@ -1,0 +1,1230 @@
+@media (max-width : 1582px){
+
+}
+
+
+
+/*//////////// max width 1400px  */
+
+@media (max-width : 1400px){
+    .button-1 button {
+        padding: 8px 25px 8px 25px;
+    }
+    .heading h2 {
+        top: 140px;
+    }
+    .text p {
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 16px;
+        width: 503px;
+        position: relative;
+        top: 198px;
+        margin: auto;
+    }
+    .button-2 button {
+        padding: 13px 27px 13px 27px;
+        top: 243px;
+    }
+    .heading-2 h2 {
+        font-size: 19px;
+    }
+    .section-2 h2 {
+        font-size: 39px;
+        width: 449px;
+
+    }
+    .section-2 p {
+        font-size: 19px;
+    }
+    .section-2 {
+        margin-top: 17px;
+    }
+    .img-1 img {
+        width: 158%;
+    }
+    .heading-3 h2 {
+        font-size: 33px;
+        width: 527px;
+    }
+    .heading-3 p {
+        font-size: 17px;
+        width: 488px;
+    }
+    .heading-3 button {
+        font-size: 17px;
+        padding: 10px 17px 10px 17px;
+    }
+    .heading-4 h2 {
+        width: 692px;
+        font-size: 46px;
+    }
+    .box-1 h2 {
+        font-size: 35px;
+    }
+    .box-1 p {
+        font-size: 17px;
+    }
+    .heading-6 h2 {
+        font-size: 44px;
+        width: 465px;
+    }
+    .heading-6 p {
+        width: 530px;
+        font-size: 17px;
+    }
+    #section-6 button {
+        font-size: 14px;
+        padding: 12px 22px 12px 22px;
+    }
+    .heading-7 h2 {
+        padding-top: 32px;
+        font-size: 40px;
+        width: 750px;
+    }
+    .heading-8 h2 {
+        font-size: 46px;
+        width: 904px;
+    }
+    .img-8.d-flex img {
+        width: 95px;
+        padding: 25px 0;
+    }
+    .text-8 p {
+        font-size: 19px;
+        width: 622px;
+    }
+    #project .text-9 p {
+        font-size: 18px;
+        width: 1106px;
+    }
+
+.footer-box-1 .text-1 p {
+	width: 460px;
+	font-size: 17px;
+}
+.manu-1 h4 {
+	font-size: 22px;
+}
+.main-footer .privace a {
+	font-size: 14px;
+}
+.copyright p {
+	font-size: 17px;
+}
+
+}
+
+/*//////////// max width 1400px  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*//////////// max width 1200px  */
+@media (max-width : 1200px){
+    .button-1 button {
+        font-family: 'Nunito';
+        font-size: 18px;
+    }
+    .button-1 button {
+        padding: 8px 25px 7px 25px;
+    }
+    .heading-2 h2 {
+        font-size: 21px;
+        width: 258px;
+    }
+    .text p {
+        font-size: 16px;
+        width: 443px;
+    }
+    .button-2 button {
+        padding: 12px 25px 12px 25px;
+        top: 241px;
+    }
+    .icon img {
+        width: 34%;
+    }
+    .text-2 p {
+        width: 238px;
+    }
+    .heading-3 h2 {
+        font-size: 23px;
+        width: 379px;
+    }
+    .heading-3 p {
+        font-size: 16px;
+        width: 362px;
+    }
+    .img-1 img {
+        width: 173%;
+    }
+    .heading-3 button {
+        font-size: 16px;
+        padding: 8px 20px 8px 20px;
+    }
+    .heading-4 h2 {
+        width: 580px;
+        font-size: 36px;
+    }
+    .section-4 .button-4 button {
+        font-size: 14px;
+        padding: 10px 20px 10px 20px;
+    }
+    .box-1 p {
+        font-size: 14px;
+        width: 134px;
+        padding-top: 13px;
+    }
+    .box-2 h2 {
+        font-size: 30px;
+    }
+    .box-2 p {
+        font-size: 14px;
+        padding-top: 18px;
+    }
+    .heading-6 h2 {
+        font-size: 37px;
+        width: 390px;
+    }
+    .heading-6 p {
+        width: 395px;
+        font-size: 16px;
+    }
+    #section-6 button {
+        font-size: 13px;
+        padding: 11px 20px 11px 20px;
+    }
+    .heading-7 h2 {
+        padding-top: 32px;
+        font-size: 33px;
+        width: 609px;
+    }
+    .heading-8 h2 {
+        font-size: 43px;
+        width: 885px;
+    }
+    .img-8.d-flex img {
+        width: 85px;
+        padding: 25px 0;
+    }
+    #section-8 .name h2 {
+        font-size: 32px;
+    }
+    .text-8 p {
+        font-size: 18px;
+        width: 506px;
+    }
+    #project .left h2 {
+        font-size: 43px;
+    }
+    #project .text-9 p {
+        font-size: 17px;
+        width: 906px;
+    }
+#project .right button {
+	font-size: 13px;
+	padding: 12px 24px 12px 24px;
+}
+.manu-1 .bar a {
+	font-size: 15px;
+}
+.copyright p {
+	font-size: 15px;
+}
+.main-footer .privace a {
+	font-size: 10px;
+}
+
+
+}
+
+
+/*//////////// max width 1200px  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*//////////// max width 992px  */
+
+
+@media (max-width : 992px) {
+    .nav-item.dropdown {
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    .button-1 {
+        margin: 0 auto;
+        padding-top: 14px;
+    }
+    .heading h2 {
+        font-size: 45px !important;
+        top: 140px;
+        width: 450px;
+    }
+    .text p {
+        font-size: 16px;
+        width: 403px;
+    }
+    .button-2 button {
+        padding: 10px 20px 10px 20px;
+        top: 241px;
+    }
+    .heading-2 h2 {
+        font-size: 17px;
+        width: 178px;
+    }
+    .text-2 p {
+        width: 161px;
+    }
+    .heading-3 h2 {
+        font-size: 18px;
+        width: 294px;
+        margin-left: -45px;
+    }
+    .heading-3 p {
+        font-size: 15px;
+        width: 309px;
+    }
+    .heading-3 button {
+        font-size: 16px;
+        padding: 8px 15px 8px 8px;
+    }
+    .heading-3 p {
+        font-size: 15px;
+        width: 275px;
+        margin-left: -49px;
+        margin-top: -42px;
+    }
+    .heading-3 button {
+        font-size: 14px;
+        padding: 10px 17px 10px 17px;
+    }
+    .heading-4 h2 {
+        width: 542px;
+        font-size: 34px;
+    }
+    .section-4 .button-4 button {
+        font-size: 12px;
+        padding: 10px 20px 10px 20px;
+    }
+    .section-5 .left h2 {
+        font-size: 26px;
+    }
+    .section-5 .right h2 {
+        font-size: 26px;
+    }
+    .section-5 .left img {
+        width: 100%;
+        height: 264px;
+    }
+    .section-5 .right img {
+        width: 100%;
+        height: 264px;
+    }
+    .section-5 .left a {
+        font-size: 16px;;
+    }
+    .section-5 .right a {
+        font-size: 16px;
+    }
+    .box-1 {
+        margin: 5px;
+        padding: 5px;
+    }
+    .box-2 {
+        margin: 4px;
+        padding: 0px 32px;
+    }
+    .box-1 h2 {
+        font-size: 28px;
+    }
+    .box-1 p {
+        font-size: 14px;
+        width: 129px;
+        padding-top: 4px;
+    }
+    .box-2 {
+        margin: 4px;
+        padding: 0px 29px;
+
+    }
+    .box-2 p {
+        font-size: 14px;
+        padding-top: 12px;
+    }
+    .heading-6 h2 {
+        font-size: 35px;
+        width: 321px;
+    }
+    .heading-6 p {
+        width: 337px;
+        font-size: 15px;
+    }
+    #section-6 button {
+        font-size: 13px;
+        padding: 9px 16px 9px 16px;
+    }
+    .heading-7 h2 {
+        padding-top: 5px;
+        font-size: 27px;
+        width: 502px;
+    }
+    .heading-8 h2 {
+        font-size: 33px;
+        width: 308px;
+    }
+    .img-8.d-flex img {
+        width: 65px;
+        padding: 9px 0;
+    }
+    .text-8 p {
+        font-size: 16px;
+        width: 347px;
+    }
+    #section-8 .name h2 {
+        font-size: 27px;
+    }
+    #section-8 .icon i {
+        padding: 15px 19px;
+        font-size: 12px;
+    }
+    #section-8 .img-9 img {
+        width: 103%;
+        margin-left: 50px;
+        height: 101%;
+    }
+    #project .left h2 {
+        font-size: 39px;
+    }
+    #project .right button {
+        font-size: 12px;
+        padding: 10px 17px 10px 15px;
+    }
+    #project .text-9 p {
+        font-size: 16px;
+        width: 680px;
+    }
+
+.footer-box-1 .text-1 p {
+	width: 310px;
+	font-size: 15px;
+}
+.manu-1 .bar a {
+	font-size: 14px;
+}
+.manu-1 h4 {
+	font-size: 18px;
+}
+
+
+}
+
+/*//////////// max width 992px  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (min-width: 768px){
+    .heading-2 h2 {
+        font-size: 19px !important;
+        width: 147px !important;
+        text-align: center;
+        padding: 3px 0;
+    }
+    .text-2 p {
+        width: 168px;
+        text-align: center;
+        font-size: 14px;
+    }
+} */
+
+
+
+
+/*//////////// max width 830px  */
+
+@media (max-width : 830px){
+    .heading-3 h2 {
+        font-size: 18px;
+        width: 294px;
+        margin-left: -73px;
+    }
+    .heading-3 p {
+        font-size: 15px;
+        width: 261px;
+        margin-left: -74px;
+        margin-top: -43px;
+    }
+    .img-1 img {
+        width: 188%;
+    }
+}
+
+/*//////////// max width 830px  */
+
+
+
+
+
+
+/*//////////// max width 768px  */
+
+@media (max-width : 768px){
+    .heading-2 h2 {
+        font-size: 27px;
+        width: 408px;
+        text-align: center;
+        padding: 3px 0;
+    }
+    .icon img {
+        width: 24%;
+    }
+    .text-2 p {
+        width: 401px;
+        text-align: center;
+        font-size: 18px;
+    }
+    .icon {
+        text-align: center;
+    }
+    .section-2 {
+        margin-top: 693px;
+    }
+    .section-2 p {
+        font-size: 18px;
+        text-align: center;
+    }
+    .section-2 h2 {
+        font-size: 37px;
+        width: 449px;
+        text-align: center;
+    }
+    .img-1 img {
+        width: 103%;
+    }
+    .heading-3 {
+        width: 89%;
+    }
+    .heading-3 {
+        width: 113%;
+        margin-left: -91px;
+    }
+
+    .heading-3 h2 {
+	font-size: 21px;
+	width: 334px;
+        margin-left: 26px;
+    }
+    .heading-3 {
+        width: 100%;
+        margin-left: -91px;
+    }
+    .heading-3 p {
+        font-size: 15px;
+        width: 319px;
+        margin-left: 25px;
+        margin-top: -42px;
+    }
+    .heading-3 button {
+        font-size: 14px;
+        padding: 10px 17px 10px 17px;
+        margin-left: 22px;
+    }
+    .heading-4 h2 {
+        width: 481px;
+        font-size: 31px;
+        text-align: center;
+    }.heading-4 p {
+        font-size: 18px;
+        text-align: center;
+    }
+    .button-4 {
+        padding-top: 53px;
+        text-align: center;
+    }
+    #section-6 {
+        margin-top: 530px;
+    }
+    .box-1 {
+        margin: 18px;
+        padding: 10px;
+    }
+    .box-2 {
+        margin: 19px;
+        padding: 5px 34px;
+    }
+    .heading-6 h2 {
+        font-size: 33px;
+        width: 344px;
+        margin-top: -23px;
+    }
+    .heading-6 p {
+        width: 303px;
+        font-size: 15px;
+        margin-top: -52px;
+    }
+    .heading-6 h2 {
+        font-size: 31px;
+        width: 406px;
+        margin-top: -11px;
+        text-align: center;
+    }
+    .heading-6 p {
+        width: 415px;
+        font-size: 13px;
+        margin-top: -52px;
+        text-align: center;
+    }
+    #section-6 button {
+        font-size: 13px;
+        padding: 9px 16px 9px 16px;
+        margin-left: 142px;
+    }
+
+    #section-7 img {
+        width: 50%;
+        padding: 0px 48px;
+    }
+    .heading-7 h2 {
+        padding: 0px 0px 48px 0;
+        font-size: 27px;
+        width: 502px;
+    }
+
+#section-8 {
+	width: 100%;
+	height: 957px;
+	padding: 0px;
+}
+#section-8 .img-9 img {
+	width: 66%;
+	height: 101%;
+}
+#project .left h2 {
+	font-size: 27px;
+}
+#project .text-9 p {
+	font-size: 15px;
+	width: 507px;
+}
+.serviec.d-flex {
+    justify-content: center;
+}
+.right {
+	margin: auto;
+	width: 82%;
+
+}
+#footer {
+	padding: 150px 0;
+	margin: 0 auto;
+	width: 33%;
+}
+.bar {
+	margin: 0 auto;
+	width: 56%;
+}
+.main-footer {
+	padding-bottom: 50px;
+	margin: 0 auto;
+	width: 57%;
+}
+
+
+}
+
+/*//////////// max width 768px  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*//////////// max width 576px  */
+
+
+@media (max-width : 576px){
+    .heading-2 h2 {
+        font-size: 23px;
+        width: 399px;
+    }
+    .text-2 p {
+        width: 371px;
+        text-align: center;
+        font-size: 17px;
+    }
+    .section-2 h2 {
+        font-size: 34px;
+        width: 431px;
+        text-align: center;
+    }
+    .section-2 p {
+        font-size: 18px;
+        text-align: center;
+        width: 445px;
+    }
+    .heading-3 {
+        width: 108%;
+        margin-left: -73px;
+    }
+    .heading-3 h2 {
+        font-size: 19px;
+        width: 302px;
+        margin-left: -97px;
+    }
+    .heading-3 p {
+        font-size: 15px;
+        width: 280px;
+        margin-left: -96px;
+        margin-top: -43px;
+    }
+
+    .heading-3 button {
+        font-size: 14px;
+        padding: 10px 17px 10px 17px;
+        margin-left: -23px;
+    }
+    .img-1 img {
+        width: 104%;
+    }
+    .heading-4 h2 {
+        width: 437px;
+        font-size: 22px;
+        text-align: center;
+    }
+    .heading-4 p {
+        font-size: 16px;
+        text-align: center;
+    }
+    .section-5 .left h2 {
+        font-size: 24px;
+    }
+    .section-5 .right h2 {
+        font-size: 24px;
+    }
+    .section-5 .left a {
+        font-size: 14px;
+    }
+    .section-5 .right a {
+        font-size: 14px;
+    }
+    .section-5 .left img {
+        padding-top: 18px;
+    }
+    .section-5 .right img {
+        padding-top: 18px;
+    }
+    .heading-7 h2 {
+        font-size: 21px;
+        width: 389px;
+    }
+    #section-7 img {
+        width: 95%;
+        padding: 0px 70px;
+    }
+    #section-8 .left, .img-9 {
+        padding-top: 100px;
+        margin-left: 66px;
+    }
+    #project .text-9 p {
+        font-size: 15px;
+        width: 469px;
+    }
+    .serviec.d-flex {
+        justify-content: center;
+    }
+    #section-8 .left .img-9 {
+        padding-top: 100px;
+        margin: 0 0 0 69px;
+    }
+
+#footer {
+	padding: 150px 0;
+	margin: 0 auto;
+	width: 43%;
+}
+.copyright p {
+	font-size: 13px;
+}
+
+
+
+}
+
+/*//////////// max width 768px  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*//////////// max width 480px  */
+
+@media (max-width : 480px){
+    .heading h2 {
+        font-size: 36px !important;
+        top: 127px;
+        width: 420px;
+    }
+    .text-2 p {
+        width: 399px;
+        text-align: center;
+        font-size: 18px;
+    }
+    .button-2 button {
+        padding: 7px 9px 10px 10px;
+        top: 241px;
+    }
+    .icon img {
+        width: 21%;
+    }
+    .heading-2 h2 {
+        font-size: 27px;
+        width: 392px;
+        text-align: center;
+        padding: 3px 0;
+    }
+    .text-2 p {
+        width: 369px;
+        text-align: center;
+        font-size: 18px;
+    }
+    .section-2 {
+        margin-top: 583px;
+    }
+    .section-2 p {
+        font-size: 18px;
+        text-align: center;
+        width: 414px;
+    }
+    .heading-3 h2 {
+        font-size: 16px;
+        width: 256px;
+        margin-left: -98px;
+    }
+    .heading-3 p {
+        font-size: 14px;
+        width: 230px;
+        margin-left: -100px;
+        margin-top: -44px;
+    }
+    .heading-3 button {
+        font-size: 14px;
+        padding: 10px 17px 10px 17px;
+        margin-left: -64px;
+    }
+    .img-1 img {
+        width: 105%;
+    }
+    .heading-4 h2 {
+        width: 396px;
+        font-size: 20px;
+        text-align: center;
+    }
+    .section-4 .button-4 button {
+        font-size: 10px;
+        padding: 10px 20px 10px 20px;
+    }
+    .box-1 {
+        margin: 14px;
+        padding: 9px;
+    }
+    .heading-6 h2 {
+        font-size: 24px;
+        width: 318px;
+        margin-top: -11px;
+        text-align: center;
+    }
+    .heading-6 p {
+        width: 339px;
+        font-size: 13px;
+        margin-top: -52px;
+        text-align: center;
+    }
+    #section-6 button {
+        font-size: 13px;
+        padding: 9px 16px 9px 16px;
+        margin-left: 102px;
+    }
+
+    #project .left h2 {
+        font-size: 22px;
+    }
+    #project .text-9 p {
+        font-size: 14px;
+        width: 398px;
+    }
+    
+    #footer {
+        padding: 150px 0;
+        margin: 0 auto;
+        width: 59%;
+    }
+    #section-7 img {
+        width: 95%;
+        padding: 0px 54px;
+    }
+
+
+}
+
+/*//////////// max width 480px  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*//////////// max width 430px  */
+
+@media (max-width : 430px){
+    .heading h2 {
+        font-size: 32px;
+        top: 127px;
+        width: 395px;
+    }
+    .text p {
+        width: 249px;
+    }
+    .button-2 button {
+        padding: 7px 9px 10px 10px;
+        top: 241px;
+    }
+    .heading-2 h2 {
+        font-size: 21px;
+        width: 352px;
+        text-align: center;
+        padding: 3px 0;
+    }
+    .text-2 p {
+        width: 307px;
+        font-size: 17px;
+    }
+    .section-2 {
+        margin-top: 556px;
+    }
+    .section-2 p {
+        font-size: 17px;
+        text-align: center;
+        width: 384px;
+    }
+    .section-2 h2 {
+        font-size: 31px;
+        width: 373px;
+        text-align: center;
+    }
+    .heading-3 h2 {
+        font-size: 15px;
+        width: 232px;
+        margin-left: -98px;
+    }
+    .heading-3 p {
+        font-size: 13px;
+        width: 224px;
+        margin-left: -101px;
+        margin-top: -56px;
+    }
+    .heading-8 h2 {
+        font-size: 28px;
+        width: 263px;
+    }
+    .text-8 p {
+        font-size: 13px;
+        width: 303px;
+    }
+    .bar {
+        margin: 0 auto;
+        width: 69%;
+    }
+    
+}
+
+/*//////////// max width 430px  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*//////////// max width 410px  */
+
+@media (max-width : 410px){
+    .button-1 button {
+        font-size: 12px;
+        padding: 10px 21px 10px 21px;
+        margin-left: 117px;
+        margin-top: 20px;
+    }
+    .heading h2 {
+        font-size: 27px !important;
+        top: 127px;
+        width: 271px;
+    }
+    .button-2 button {
+        padding: 10px 13px 10px 13px;
+        top: 241px;
+        font-size: 13px;
+    }
+    .heading-2 h2 {
+        font-size: 23px;
+        width: 267px;
+    }
+    .text-2 p {
+        width: 287px;
+        font-size: 16px;
+    }
+    .section-2 h2 {
+        font-size: 31px;
+        width: 351px;
+        text-align: center;
+    }
+    .section-2 p {
+        width: 336px;
+    }
+    .section-2 h2 {
+        font-size: 25px;
+        width: 279px;
+        text-align: center;
+        margin-left: 39px;
+    }
+    .heading-3 h2 {
+        font-size: 15px;
+        width: 197px;
+        margin-left: -98px;
+    }
+    .heading-3 button {
+        font-size: 11px;
+        padding: 9px 13px 9px 13px;
+        margin-left: -73px;
+    }
+    .row {
+        width: 99%;
+    }
+    .heading-3 {
+        width: 124%;
+        margin-left: -95px;
+    }
+
+    .heading-3 h2 {
+        font-size: 15px;
+        width: 170px;
+        margin-left: -99px;
+    }
+    .heading-3 p {
+        font-size: 12px;
+        width: 189px;
+        margin-left: -101px;
+        margin-top: -56px;
+    }
+    .img-1 img {
+        width: 114%;
+    }
+    .section-2 h2 {
+        font-size: 25px;
+        width: 253px;
+        text-align: center;
+        margin-left: 39px;
+    }
+    .text-2 p {
+        width: 269px;
+        font-size: 15px;
+    }
+    .heading-4 h2 {
+        width: 327px;
+        font-size: 17px;
+        text-align: center;
+    }
+    .heading-4 p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .box-2 {
+        margin: 13px;
+        padding: 0px 33px;
+    }
+    .box-2 p {
+        font-size: 12px;
+        padding-top: 3px;
+        width: 74px;
+    }
+    .box-2 h2 {
+        font-size: 24px;
+        padding-top: 8px;
+    }
+    .box-1 h2 {
+        font-size: 20px;
+    }
+    .box-1 p {
+        font-size: 13px;
+        width: 110px;
+        padding-top: 4px;
+    }
+    .heading-7 h2 {
+        font-size: 18px;
+        width: 298px;
+    }
+    #section-7 img {
+        width: 95%;
+        padding: 1px 24px;
+    }
+    .heading-8 h2 {
+        font-size: 22px;
+        width: 201px;
+    }
+    .img-8.d-flex img {
+        width: 47px;
+        padding: 10px 0;
+    }
+    .text-8 p {
+        font-size: 13px;
+        width: 257px;
+    }
+    #section-8 .name h2 {
+        font-size: 18px;
+    }
+    #section-8 .icon i {
+        padding: 13px 17px;
+        font-size: 8px;
+    }
+    #project .text-9 p {
+        font-size: 14px;
+        width: 321px;
+    }
+    #project .left p {
+        font-size: 18px;
+    }
+    #project .left h2 {
+        font-size: 21px;
+    }
+    #project .right button {
+        font-size: 11px;
+        padding: 10px 17px 10px 15px;
+    }
+    .right {
+        margin: auto;
+        width: 107%;
+    }
+
+
+.footer-box-1 .text-1 p {
+	width: 274px;
+	font-size: 15px;
+}
+.heading-6 p {
+	width: 321px;
+	font-size: 13px;
+	margin-top: -52px;
+	text-align: center;
+}
+#footer {
+	padding: 150px 0;
+	margin: 0 auto;
+	width: 71%;
+}
+.bar {
+	margin: 0 auto;
+	width: 69%;
+}
+.copyright p {
+	font-size: 11px;
+	width: 190px;
+}
+
+
+
+
+
+    
+
+
+
+
+}
+
+/*//////////// max width 410px  */
